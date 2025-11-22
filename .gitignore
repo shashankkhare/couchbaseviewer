@@ -44,8 +44,6 @@ local.properties
 /desktop/build/kotlin/compileKotlin/cacheable/last-build.bin
 /shared/build/kotlin/compileKotlinJvm/cacheable/last-build.bin
 /gradle/wrapper/gradle-wrapper.jar
-/gradlew
-/gradlew.bat
 /desktop/hs_err_pid27924.log
 /desktop/hs_err_pid48104.log
 /desktop/CouchbaseLiteTemp/92cafb7defd65db19324e48f9ed03258/libLiteCore.so
@@ -77,5 +75,3 @@ local.properties
 /desktop/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len
 /shared/build/kotlin/compileKotlinJvm/cacheable/caches-jvm/inputs/source-to-output.tab_i.len
 /desktop/CouchbaseLiteTemp/5eea1e4080c358330a0f9f6a675656e8/libLiteCoreJNI.so
-/gradle/libs.versions.toml
-/app/proguard-rules.pro
